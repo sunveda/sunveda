@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>15+ years building software · AI &amp; blockchain · Tokyo, Japan</strong>
+  <strong>16 years of professional experience · AI &amp; blockchain · Tokyo, Japan</strong>
 </p>
 <p align="center">
   <a href="https://sunveda.tech">Portfolio &amp; collaboration</a> &nbsp; / &nbsp;
@@ -15,7 +15,7 @@
 
 ### Technology should move humanity forward.
 
-I'm **Sarveshwar Singh**, a technology consultant and hands-on engineer working through **SunVeda Technologies**. Since 2010, my work has spanned full-stack software, enterprise systems, and decentralized technology.
+I'm **Sarveshwar Singh**, a technology consultant and hands-on engineer working through **SunVeda Technologies**. I began studying computer science in college in 2006 and started my professional career in September 2010. Over 16 years, my work has spanned full-stack software, enterprise systems, and decentralized technology.
 
 Today, I bring that engineering foundation to **AI applications, agent workflows, and blockchain systems**. I care about what they make possible for people: easier access to knowledge, greater control over digital assets, and useful tools for everyday life.
 
