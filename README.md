@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ai-smart-contracts-zk.svg" alt="Sarveshwar Singh — AI, smart contracts, and zero-knowledge proofs for human progress. Tokyo, Japan · SunVeda Technologies." width="100%" />
+  <img src="assets/humanity-public-good.svg" alt="Sarveshwar Singh — AI, smart contracts, and zero-knowledge proofs for humanity and the public good. Tokyo, Japan · SunVeda Technologies." width="100%" />
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 ---
 
-### Technology should move humanity forward.
+### Technology in service of humanity and the public good.
 
 I'm **Sarveshwar Singh**, a technology consultant and hands-on engineer working through **SunVeda Technologies**. I began studying computer science in college in 2006 and started my professional career in September 2010. Over 16 years, my work has spanned full-stack software, enterprise systems, and decentralized technology.
 
 Today, I bring that engineering foundation to **AI applications, agent workflows, smart contracts, and zero-knowledge proofs**. I care about what they make possible for people: easier access to knowledge, greater control over digital assets, and useful tools for everyday life.
 
-**My aim is simple: build technology that helps people live better, learn more, and participate with confidence.**
+**My purpose is to build technology that serves humanity and the public good — expanding access to knowledge, protecting individual agency, and making useful tools available to more people.**
 
 ### Where I focus
 
@@ -62,10 +62,10 @@ A concrete part of my blockchain background: the bridge between a wallet interfa
 
 ### Let's build something that matters.
 
-I'm interested in collaboration around **useful AI, smart contracts, zero-knowledge proofs, and technology with a clear human benefit**.
+I'm interested in collaboration around **useful AI, smart contracts, zero-knowledge proofs, and technology that serves humanity and the public good**.
 
 **[Connect through SunVeda Technologies →](https://sunveda.tech)**
 
 ---
 
-<p align="center"><sub>Built with curiosity. Grounded in engineering. Guided by people.</sub></p>
+<p align="center"><sub>Built with curiosity. Grounded in engineering. Dedicated to humanity and the public good.</sub></p>
