@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sarveshwar Singh — AI and blockchain engineering for human progress. Tokyo, Japan · SunVeda Technologies." width="100%" />
+  <img src="assets/banner.svg" alt="Sarveshwar Singh — AI, smart contracts, and zero-knowledge proofs for human progress. Tokyo, Japan · SunVeda Technologies." width="100%" />
 </p>
 
 <p align="center">
-  <strong>16 years of professional experience · AI &amp; blockchain · Tokyo, Japan</strong>
+  <strong>16 years of professional experience · AI · Smart contracts · Zero-knowledge proofs · Tokyo, Japan</strong>
 </p>
 <p align="center">
   <a href="https://sunveda.tech">Portfolio &amp; collaboration</a> &nbsp; / &nbsp;
@@ -17,15 +17,15 @@
 
 I'm **Sarveshwar Singh**, a technology consultant and hands-on engineer working through **SunVeda Technologies**. I began studying computer science in college in 2006 and started my professional career in September 2010. Over 16 years, my work has spanned full-stack software, enterprise systems, and decentralized technology.
 
-Today, I bring that engineering foundation to **AI applications, agent workflows, and blockchain systems**. I care about what they make possible for people: easier access to knowledge, greater control over digital assets, and useful tools for everyday life.
+Today, I bring that engineering foundation to **AI applications, agent workflows, smart contracts, and zero-knowledge proofs**. I care about what they make possible for people: easier access to knowledge, greater control over digital assets, and useful tools for everyday life.
 
 **My aim is simple: build technology that helps people live better, learn more, and participate with confidence.**
 
 ### Where I focus
 
-| Applied AI | Blockchain & digital trust | Engineering for people |
+| Applied AI | Smart contracts & zero-knowledge proofs | Engineering for people |
 | :--- | :--- | :--- |
-| AI-assisted development, agent workflows, practical automation, and AI literacy. | Cardano and Ethereum ecosystems, wallet integrations, smart contracts, NFTs, and real-world asset exploration. | Accessible interfaces, multilingual experiences, privacy-conscious design, and dependable delivery. |
+| AI-assisted development, agent workflows, practical automation, and AI literacy. | Smart contracts, verifiable computation, and privacy-preserving systems, with a foundation in the Cardano and Ethereum ecosystems. | Accessible interfaces, multilingual experiences, privacy-conscious design, and dependable delivery. |
 
 ### Selected work
 
@@ -62,7 +62,7 @@ A concrete part of my blockchain background: the bridge between a wallet interfa
 
 ### Let's build something that matters.
 
-I'm interested in collaboration around **useful AI, trustworthy blockchain applications, and technology with a clear human benefit**.
+I'm interested in collaboration around **useful AI, smart contracts, zero-knowledge proofs, and technology with a clear human benefit**.
 
 **[Connect through SunVeda Technologies →](https://sunveda.tech)**
 
