@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sarveshwar Singh — AI, smart contracts, and zero-knowledge proofs for human progress. Tokyo, Japan · SunVeda Technologies." width="100%" />
+  <img src="assets/ai-smart-contracts-zk.svg" alt="Sarveshwar Singh — AI, smart contracts, and zero-knowledge proofs for human progress. Tokyo, Japan · SunVeda Technologies." width="100%" />
 </p>
 
 <p align="center">
