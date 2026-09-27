@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sarveshwar Singh — AI and blockchain for human progress</title>
+  <desc id="desc">A dark teal banner with ivory typography and a connected geometric network, representing intelligence and digital trust.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102D32"/><stop offset="1" stop-color="#071B24"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#39B8A5" stop-opacity=".22"/><stop offset="1" stop-color="#39B8A5" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#D9EEE8" opacity=".08"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="200" rx="350" ry="300" fill="url(#glow)"/>
+  <path d="M64 62h44" stroke="#80DAC1" stroke-width="4"/>
+  <text x="124" y="68" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3" fill="#A7D5CB">SUNVEDA TECHNOLOGIES</text>
+  <text x="64" y="156" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#F6F3E9">Sarveshwar Singh</text>
+  <text x="67" y="202" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#B9D0CD">AI &amp; blockchain engineering</text>
+  <text x="64" y="287" font-family="Georgia, serif" font-size="40" fill="#F6F3E9">For human progress.</text>
+  <text x="67" y="357" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2" fill="#87B7AE">TOKYO, JAPAN  /  BUILDING SINCE 2010</text>
+  <g fill="none" stroke="#73C6B7" stroke-width="1.5">
+    <circle cx="1030" cy="210" r="134" opacity=".18"/>
+    <circle cx="1030" cy="210" r="96" opacity=".25"/>
+    <path d="M890 146 984 95 1119 140 1168 249 1076 330 939 287 890 146 1030 210 1119 140M984 95 1030 210 1168 249M939 287 1030 210 1076 330" opacity=".55"/>
+    <path d="m1005 195 25-14 25 14v30l-25 14-25-14z" fill="#133E42" stroke="#A6EACF" stroke-width="2"/>
+    <path d="m1005 195 25 15 25-15m-25 15v29" stroke="#A6EACF"/>
+  </g>
+  <g fill="#92DBC5" stroke="#143B3D" stroke-width="5">
+    <circle cx="890" cy="146" r="8"/><circle cx="984" cy="95" r="8"/><circle cx="1119" cy="140" r="8"/>
+    <circle cx="1168" cy="249" r="8"/><circle cx="1076" cy="330" r="8"/><circle cx="939" cy="287" r="8"/>
+  </g>
+  <circle cx="1196" cy="72" r="4" fill="#E7C88C"/>
+  <path d="M1220 366h-44" stroke="#E7C88C" stroke-width="2"/>
+</svg>
